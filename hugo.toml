@@ -1,4 +1,4 @@
-baseURL = 'https://wilethan.github.io/test'
+baseURL = 'https://wilethan.github.io/test/'
 languageCode = 'en-us'
-title = 'Test'
+title = 'Monsite'
 theme = 'anakan'
